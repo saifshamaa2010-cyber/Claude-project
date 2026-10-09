@@ -1,0 +1,1671 @@
+{
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "durationInFrames": 21748,
+ "scenes": [
+  {
+   "id": "cold-open",
+   "type": "coldOpen",
+   "from": 0,
+   "lines": [
+    {
+     "t": "Three universes. One villain. And the man who once saved the world, now hiding behind a mask.",
+     "kicker": "3 UNIVERSES \u00b7 1 VILLAIN",
+     "start": 0.35,
+     "end": 6.288,
+     "from": 10,
+     "to": 189
+    },
+    {
+     "t": "On December 18th, Avengers: Doomsday finally arrives, and Marvel is betting everything on it.",
+     "kicker": "DECEMBER 18",
+     "start": 6.548,
+     "end": 12.753,
+     "from": 196,
+     "to": 383
+    },
+    {
+     "t": "Captain America is back from retirement.",
+     "kicker": "HE'S BACK",
+     "start": 13.013,
+     "end": 15.27,
+     "from": 390,
+     "to": 458
+    },
+    {
+     "t": "The original X-Men are crossing over. The Fantastic Four have left their universe behind.",
+     "kicker": "WORLDS COLLIDE",
+     "start": 15.53,
+     "end": 21.117,
+     "from": 466,
+     "to": 634
+    },
+    {
+     "t": "And Robert Downey Jr. isn't playing Iron Man. He's playing Doctor Doom.",
+     "kicker": "DOOM",
+     "start": 21.377,
+     "end": 26.178,
+     "from": 641,
+     "to": 785
+    },
+    {
+     "t": "So before you buy that ticket, here is every character, every universe, every trailer clue, and every rumor you need to know.",
+     "kicker": "WATCH THIS FIRST",
+     "start": 26.438,
+     "end": 33.952,
+     "from": 793,
+     "to": 1019
+    }
+   ],
+   "durationInFrames": 1036
+  },
+  {
+   "id": "title",
+   "type": "title",
+   "duration": 4.2,
+   "sfx": "impact",
+   "from": 1036,
+   "lines": [],
+   "durationInFrames": 126
+  },
+  {
+   "id": "ch1",
+   "type": "chapter",
+   "num": "01",
+   "title": "WHO IS DOCTOR DOOM?",
+   "duration": 2.8,
+   "sfx": "impact",
+   "from": 1162,
+   "lines": [],
+   "durationInFrames": 84
+  },
+  {
+   "id": "doom-origin",
+   "type": "dossier",
+   "chapter": "WHO IS DOCTOR DOOM?",
+   "name": "VICTOR VON DOOM",
+   "alias": "DOCTOR DOOM",
+   "actor": "Robert Downey Jr.",
+   "emblem": "mask",
+   "media": "doom",
+   "accent": "#39e58c",
+   "fields": [
+    {
+     "label": "TITLE",
+     "value": "Monarch of Latveria",
+     "at": 1
+    },
+    {
+     "label": "SKILLS",
+     "value": "Super-science + sorcery",
+     "at": 1
+    },
+    {
+     "label": "NEMESIS",
+     "value": "Reed Richards",
+     "at": 2
+    },
+    {
+     "label": "ORIGIN",
+     "value": "Failed experiment \u2192 scarred face \u2192 iron mask",
+     "at": 3
+    }
+   ],
+   "tag": {
+    "text": "THE SMARTEST MAN ALIVE?",
+    "at": 4
+   },
+   "from": 1246,
+   "lines": [
+    {
+     "t": "To understand Doomsday, you have to understand Victor von Doom.",
+     "start": 0.35,
+     "end": 4.091,
+     "from": 10,
+     "to": 123
+    },
+    {
+     "t": "In the comics, Victor is the ruler of a small European nation called Latveria, and he is both a genius scientist and a master of sorcery.",
+     "start": 4.351,
+     "end": 13.648,
+     "from": 131,
+     "to": 409
+    },
+    {
+     "t": "In college, he was the rival of Reed Richards, the man who would become Mister Fantastic.",
+     "start": 13.908,
+     "end": 19.304,
+     "from": 417,
+     "to": 579
+    },
+    {
+     "t": "A forbidden experiment, built to reach his mother's soul, blew up in his face, and Victor blamed Reed for it.",
+     "start": 19.564,
+     "end": 26.081,
+     "from": 587,
+     "to": 782
+    },
+    {
+     "t": "He hid his scars behind an iron mask, and spent the rest of his life trying to prove he was the smartest man alive.",
+     "start": 26.341,
+     "end": 33.133,
+     "from": 790,
+     "to": 994
+    }
+   ],
+   "durationInFrames": 1011
+  },
+  {
+   "id": "battleworld",
+   "type": "battleworld",
+   "chapter": "WHO IS DOCTOR DOOM?",
+   "storyAt": 0,
+   "planetAt": 1,
+   "emperorAt": 1,
+   "datesAt": 2,
+   "from": 2257,
+   "lines": [
+    {
+     "t": "But his greatest moment came in the 2015 comic event, Secret Wars.",
+     "start": 0.35,
+     "end": 4.9,
+     "from": 10,
+     "to": 147
+    },
+    {
+     "t": "When the multiverse collapsed, Doom stole the power of gods, stitched the surviving worlds into a single patchwork planet called Battleworld, and ruled it as God Emperor.",
+     "start": 5.16,
+     "end": 15.522,
+     "from": 155,
+     "to": 466
+    },
+    {
+     "t": "That story is the blueprint for the next two Avengers movies.",
+     "start": 15.782,
+     "end": 19.192,
+     "from": 473,
+     "to": 576
+    }
+   ],
+   "durationInFrames": 593
+  },
+  {
+   "id": "doom-mcu",
+   "type": "timeline",
+   "chapter": "WHO IS DOCTOR DOOM?",
+   "heading": "HOW DOOM CAME TO THE MCU",
+   "events": [
+    {
+     "date": "DEC 2023",
+     "label": "The Kang Dynasty plan collapses",
+     "at": 1
+    },
+    {
+     "date": "JUL 2024",
+     "label": "RDJ unmasks as Doom at Comic-Con",
+     "at": 2
+    },
+    {
+     "date": "JUL 2024",
+     "label": "The Russo brothers return to direct",
+     "at": 3
+    },
+    {
+     "date": "DEC 18, 2026",
+     "label": "Avengers: Doomsday",
+     "at": 3
+    }
+   ],
+   "from": 2850,
+   "lines": [
+    {
+     "t": "In the MCU, Doom wasn't even the original plan.",
+     "start": 0.35,
+     "end": 3.554,
+     "from": 10,
+     "to": 107
+    },
+    {
+     "t": "This movie began life as The Kang Dynasty, until Marvel parted ways with Jonathan Majors at the end of 2023.",
+     "start": 3.814,
+     "end": 11.655,
+     "from": 114,
+     "to": 350
+    },
+    {
+     "t": "Then, at San Diego Comic-Con in July 2024, Robert Downey Jr. walked onto the Hall H stage and pulled off a Doom mask.",
+     "start": 11.915,
+     "end": 21.205,
+     "from": 357,
+     "to": 636
+    },
+    {
+     "t": "The Russo brothers, the directors of Infinity War and Endgame, came back with him.",
+     "start": 21.465,
+     "end": 26.313,
+     "from": 644,
+     "to": 789
+    }
+   ],
+   "durationInFrames": 806
+  },
+  {
+   "id": "first-steps",
+   "type": "beats",
+   "chapter": "WHO IS DOCTOR DOOM?",
+   "heading": "FIRST STEPS \u00b7 MID-CREDITS SCENE",
+   "accent": "#4cc9f0",
+   "media": "first-steps",
+   "emblem": "four",
+   "beats": [
+    {
+     "text": "Four years after the film",
+     "at": 1
+    },
+    {
+     "text": "Sue senses an intruder",
+     "at": 1
+    },
+    {
+     "text": "Franklin, face to face with Doom",
+     "at": 1
+    },
+    {
+     "text": "His power could end Galactus's hunger",
+     "at": 2
+    },
+    {
+     "text": "Now Doom has found him",
+     "at": 2
+    }
+   ],
+   "from": 3656,
+   "lines": [
+    {
+     "t": "Our first real glimpse of Doom came in the mid-credits scene of The Fantastic Four: First Steps.",
+     "start": 0.35,
+     "end": 5.911,
+     "from": 10,
+     "to": 177
+    },
+    {
+     "t": "Four years after the events of the film, Sue Storm senses an intruder, and finds her son Franklin standing face to face with a figure in a green cloak, mask in hand.",
+     "start": 6.171,
+     "end": 16.711,
+     "from": 185,
+     "to": 501
+    },
+    {
+     "t": "Galactus wanted Franklin because that baby's power could end his eternal hunger. And now, Doom has found him.",
+     "start": 16.971,
+     "end": 23.721,
+     "from": 509,
+     "to": 712
+    }
+   ],
+   "durationInFrames": 729
+  },
+  {
+   "id": "ch2",
+   "type": "chapter",
+   "num": "02",
+   "title": "THE MULTIVERSE IS DYING",
+   "duration": 2.8,
+   "sfx": "impact",
+   "from": 4385,
+   "lines": [],
+   "durationInFrames": 84
+  },
+  {
+   "id": "incursions",
+   "type": "incursion",
+   "chapter": "THE MULTIVERSE IS DYING",
+   "heading": "INCURSION",
+   "definition": "When two universes collide, one or both are destroyed.",
+   "chips": [
+    {
+     "label": "Multiverse of Madness",
+     "sub": "Incursions introduced",
+     "at": 1
+    },
+    {
+     "label": "No Way Home",
+     "sub": "Reality cracks open",
+     "at": 2
+    },
+    {
+     "label": "Loki \u00b7 Season 2",
+     "sub": "Loki holds the timelines",
+     "at": 3
+    }
+   ],
+   "from": 4469,
+   "lines": [
+    {
+     "t": "Here's the problem every hero in this movie is facing: the multiverse is breaking.",
+     "start": 0.35,
+     "end": 5.244,
+     "from": 10,
+     "to": 157
+    },
+    {
+     "t": "Doctor Strange in the Multiverse of Madness introduced the idea of an incursion, when two universes collide, and one or both are destroyed.",
+     "start": 5.504,
+     "end": 14.703,
+     "from": 165,
+     "to": 441
+    },
+    {
+     "t": "Spider-Man: No Way Home tore holes between realities.",
+     "start": 14.963,
+     "end": 18.502,
+     "from": 449,
+     "to": 555
+    },
+    {
+     "t": "And at the end of Loki season two, Loki sacrificed himself to hold every timeline together, sitting alone on a throne at the end of time as the new God of Stories.",
+     "start": 18.762,
+     "end": 29.13,
+     "from": 563,
+     "to": 874
+    }
+   ],
+   "durationInFrames": 891
+  },
+  {
+   "id": "synopsis",
+   "type": "quote",
+   "chapter": "THE MULTIVERSE IS DYING",
+   "kicker": "OFFICIAL SYNOPSIS",
+   "quote": "Universes collide and the Multiverse Saga begins its final chapter.",
+   "quote2": "Beloved heroes from three distinct universes will be set on a deadly collision course\u2026",
+   "quote2At": 1,
+   "source": "Marvel Studios, via Fandango",
+   "from": 5360,
+   "lines": [
+    {
+     "t": "Marvel's official synopsis puts it plainly: universes collide, and the Multiverse Saga begins its final chapter.",
+     "start": 0.35,
+     "end": 7.773,
+     "from": 10,
+     "to": 233
+    },
+    {
+     "t": "Heroes from three distinct universes are set on a deadly collision course, facing an existential threat unlike anything they've ever encountered.",
+     "start": 8.033,
+     "end": 17.182,
+     "from": 241,
+     "to": 515
+    }
+   ],
+   "durationInFrames": 532
+  },
+  {
+   "id": "three-worlds",
+   "type": "universes",
+   "chapter": "THE MULTIVERSE IS DYING",
+   "orbs": [
+    {
+     "name": "EARTH-616",
+     "sub": "The main MCU",
+     "color": "#4ea8ff",
+     "at": 0
+    },
+    {
+     "name": "EARTH-828",
+     "sub": "Home of the Fantastic Four",
+     "color": "#ff9f43",
+     "at": 1
+    },
+    {
+     "name": "FOX X-MEN WORLD",
+     "sub": "The original X-Men films",
+     "color": "#ffd23f",
+     "at": 2
+    }
+   ],
+   "collideAt": 3,
+   "from": 5892,
+   "lines": [
+    {
+     "t": "Most fans believe those three universes are the main MCU, known as Earth-616,",
+     "start": 0.35,
+     "end": 5.845,
+     "from": 10,
+     "to": 175
+    },
+    {
+     "t": "Earth-828, the retro-futuristic home of the Fantastic Four,",
+     "start": 6.105,
+     "end": 10.492,
+     "from": 183,
+     "to": 315
+    },
+    {
+     "t": "and the world of Fox's original X-Men movies.",
+     "start": 10.752,
+     "end": 13.774,
+     "from": 323,
+     "to": 413
+    },
+    {
+     "t": "Put three worlds on a collision course, and you have the perfect stage for a man who believes he should rule them all.",
+     "start": 14.034,
+     "end": 20.264,
+     "from": 421,
+     "to": 608
+    }
+   ],
+   "durationInFrames": 625
+  },
+  {
+   "id": "ch3",
+   "type": "chapter",
+   "num": "03",
+   "title": "WHERE EVERY HERO IS NOW",
+   "duration": 2.8,
+   "sfx": "impact",
+   "from": 6517,
+   "lines": [],
+   "durationInFrames": 84
+  },
+  {
+   "id": "cast-intro",
+   "type": "bigStat",
+   "chapter": "WHERE EVERY HERO IS NOW",
+   "stat": "27",
+   "label": "ACTORS ANNOUNCED IN ONE LIVESTREAM",
+   "sub": "\u2026and Marvel still kept secrets",
+   "subAt": 1,
+   "from": 6601,
+   "lines": [
+    {
+     "t": "The cast is enormous. In March 2025, Marvel revealed twenty-seven names in a marathon livestream, one director's chair at a time.",
+     "start": 0.35,
+     "end": 9.969,
+     "from": 10,
+     "to": 299
+    },
+    {
+     "t": "And even then, they held back their biggest surprise. Here's where every team stands.",
+     "start": 10.229,
+     "end": 14.994,
+     "from": 307,
+     "to": 450
+    }
+   ],
+   "durationInFrames": 467
+  },
+  {
+   "id": "thor",
+   "type": "dossier",
+   "chapter": "WHERE EVERY HERO IS NOW",
+   "name": "THOR",
+   "alias": "GOD OF THUNDER",
+   "actor": "Chris Hemsworth",
+   "emblem": "bolt",
+   "media": "thor",
+   "accent": "#5ab8ff",
+   "fields": [
+    {
+     "label": "LAST SEEN",
+     "value": "Thor: Love and Thunder (2022)",
+     "at": 1
+    },
+    {
+     "label": "STATUS",
+     "value": "Father to Love",
+     "at": 1
+    },
+    {
+     "label": "TEASER",
+     "value": "Prays to Odin to make it home",
+     "at": 2
+    },
+    {
+     "label": "TRAILER",
+     "value": "Strikes Doom \u2014 and is stopped cold",
+     "at": 3
+    }
+   ],
+   "tag": {
+    "text": "THE ONLY FOUNDING AVENGER IN THE CAST REVEAL",
+    "at": 0
+   },
+   "from": 7068,
+   "lines": [
+    {
+     "t": "Thor is the only founding Avenger who was named in Marvel's big cast reveal.",
+     "start": 0.35,
+     "end": 5.329,
+     "from": 10,
+     "to": 160
+    },
+    {
+     "t": "At the end of Thor: Love and Thunder, he adopted Love, the daughter of Gorr the God Butcher, and became a full-time dad.",
+     "start": 5.589,
+     "end": 13.079,
+     "from": 168,
+     "to": 392
+    },
+    {
+     "t": "In his teaser, Thor kneels and prays to his father, Odin, asking for one thing: to make it home to her.",
+     "start": 13.339,
+     "end": 19.446,
+     "from": 400,
+     "to": 583
+    },
+    {
+     "t": "In the trailer, he swings at Doom with everything he has, and Doom stops him cold.",
+     "start": 19.706,
+     "end": 24.88,
+     "from": 591,
+     "to": 746
+    },
+    {
+     "t": "When the strongest Avenger can't land a hit, you know this villain is different.",
+     "start": 25.14,
+     "end": 29.324,
+     "from": 754,
+     "to": 880
+    }
+   ],
+   "durationInFrames": 897
+  },
+  {
+   "id": "steve",
+   "type": "dossier",
+   "chapter": "WHERE EVERY HERO IS NOW",
+   "name": "STEVE ROGERS",
+   "alias": "THE FIRST AVENGER",
+   "actor": "Chris Evans",
+   "emblem": "star",
+   "media": "steve",
+   "accent": "#e63946",
+   "fields": [
+    {
+     "label": "LAST SEEN",
+     "value": "Avengers: Endgame (2019)",
+     "at": 1
+    },
+    {
+     "label": "STATUS",
+     "value": "Retired\u2026 or is he?",
+     "at": 1
+    },
+    {
+     "label": "TEASER 1",
+     "value": "Motorcycle, the suit, a baby",
+     "at": 2
+    },
+    {
+     "label": "BIG QUESTION",
+     "value": "Our Steve \u2014 or a variant?",
+     "at": 3
+    }
+   ],
+   "tag": {
+    "text": "KEPT OUT OF THE CAST ANNOUNCEMENT",
+    "at": 4
+   },
+   "from": 7965,
+   "lines": [
+    {
+     "t": "Then there's the return almost nobody saw coming.",
+     "start": 0.35,
+     "end": 3.078,
+     "from": 10,
+     "to": 92
+    },
+    {
+     "t": "At the end of Endgame, Steve Rogers traveled back in time to live a full life with Peggy Carter, and handed his shield to Sam Wilson.",
+     "start": 3.338,
+     "end": 11.253,
+     "from": 100,
+     "to": 338
+    },
+    {
+     "t": "The very first Doomsday teaser showed a man on a motorcycle, a Captain America suit being put away, and then Steve, cradling a baby.",
+     "start": 11.513,
+     "end": 19.963,
+     "from": 345,
+     "to": 599
+    },
+    {
+     "t": "Whose child is it? Is this our Steve, or a variant from another universe? Marvel isn't saying.",
+     "start": 20.223,
+     "end": 26.066,
+     "from": 607,
+     "to": 782
+    },
+    {
+     "t": "Marvel kept Chris Evans out of its big cast announcement entirely, and saved the reveal for the very first teaser.",
+     "start": 26.326,
+     "end": 33.222,
+     "from": 790,
+     "to": 997
+    }
+   ],
+   "durationInFrames": 1014
+  },
+  {
+   "id": "sam",
+   "type": "dossier",
+   "chapter": "WHERE EVERY HERO IS NOW",
+   "name": "SAM WILSON",
+   "alias": "CAPTAIN AMERICA",
+   "actor": "Anthony Mackie",
+   "emblem": "wings",
+   "media": "sam",
+   "accent": "#3a86ff",
+   "fields": [
+    {
+     "label": "LAST SEEN",
+     "value": "Captain America: Brave New World (2025)",
+     "at": 1
+    },
+    {
+     "label": "PARTNER",
+     "value": "Joaquin Torres, the new Falcon",
+     "at": 1
+    },
+    {
+     "label": "MISSION",
+     "value": "Rebuild the Avengers",
+     "at": 1
+    },
+    {
+     "label": "WARNING",
+     "value": "\"This isn't the only world\"",
+     "at": 2
+    }
+   ],
+   "tag": {
+    "text": "SOMETHING IS COMING",
+    "at": 3
+   },
+   "from": 8979,
+   "lines": [
+    {
+     "t": "Sam Wilson is Captain America now.",
+     "start": 0.35,
+     "end": 2.589,
+     "from": 10,
+     "to": 78
+    },
+    {
+     "t": "In Captain America: Brave New World, he went toe to toe with the Red Hulk, and decided the world needs the Avengers again, with Joaquin Torres at his side as the new Falcon.",
+     "start": 2.849,
+     "end": 13.974,
+     "from": 85,
+     "to": 419
+    },
+    {
+     "t": "In that film's post-credits scene, the villain Samuel Sterns warned Sam that this isn't the only world out there, and that something is coming.",
+     "start": 14.234,
+     "end": 22.459,
+     "from": 427,
+     "to": 674
+    },
+    {
+     "t": "That something is Doomsday.",
+     "start": 22.719,
+     "end": 24.136,
+     "from": 682,
+     "to": 724
+    }
+   ],
+   "durationInFrames": 741
+  },
+  {
+   "id": "thunderbolts",
+   "type": "dossier",
+   "chapter": "WHERE EVERY HERO IS NOW",
+   "name": "THE NEW AVENGERS",
+   "alias": "FORMERLY THE THUNDERBOLTS*",
+   "actor": "Pugh \u00b7 Stan \u00b7 Harbour \u00b7 John-Kamen \u00b7 Russell \u00b7 Pullman",
+   "emblem": "asterisk",
+   "media": "thunderbolts",
+   "accent": "#ff7a1a",
+   "fields": [
+    {
+     "label": "ROSTER",
+     "value": "Yelena \u00b7 Bucky \u00b7 Red Guardian \u00b7 Ghost \u00b7 U.S. Agent \u00b7 Sentry",
+     "at": 1
+    },
+    {
+     "label": "LAST SEEN",
+     "value": "Thunderbolts* (2025)",
+     "at": 1
+    },
+    {
+     "label": "REBRANDED BY",
+     "value": "Valentina Allegra de Fontaine",
+     "at": 1
+    },
+    {
+     "label": "CLIFFHANGER",
+     "value": "An interdimensional ship marked \"4\"",
+     "at": 2
+    }
+   ],
+   "tag": {
+    "text": "TWO TEAMS. ONE NAME.",
+    "at": 0
+   },
+   "from": 9720,
+   "lines": [
+    {
+     "t": "But Sam has competition.",
+     "start": 0.35,
+     "end": 1.818,
+     "from": 10,
+     "to": 55
+    },
+    {
+     "t": "In Thunderbolts*, Yelena Belova, Bucky Barnes, Red Guardian, Ghost, John Walker, and the terrifyingly powerful Bob, also known as Sentry, saved New York from the Void, and Valentina rebranded them as the New Avengers.",
+     "start": 2.079,
+     "end": 16.961,
+     "from": 62,
+     "to": 509
+    },
+    {
+     "t": "In the post-credits scene, fourteen months later, they're squabbling over who owns the Avengers name, when their sensors pick up an interdimensional ship arriving at Earth, marked with a giant number four.",
+     "start": 17.221,
+     "end": 29.167,
+     "from": 517,
+     "to": 875
+    }
+   ],
+   "durationInFrames": 892
+  },
+  {
+   "id": "fantastic-four",
+   "type": "dossier",
+   "chapter": "WHERE EVERY HERO IS NOW",
+   "name": "THE FANTASTIC FOUR",
+   "alias": "MARVEL'S FIRST FAMILY",
+   "actor": "Pascal \u00b7 Kirby \u00b7 Quinn \u00b7 Moss-Bachrach",
+   "emblem": "four",
+   "media": "fantastic-four",
+   "accent": "#4cc9f0",
+   "fields": [
+    {
+     "label": "ROSTER",
+     "value": "Reed \u00b7 Sue \u00b7 Johnny \u00b7 Ben",
+     "at": 1
+    },
+    {
+     "label": "HOME",
+     "value": "Earth-828",
+     "at": 1
+    },
+    {
+     "label": "LAST SEEN",
+     "value": "The Fantastic Four: First Steps (2025)",
+     "at": 1
+    },
+    {
+     "label": "DOOM'S TARGET",
+     "value": "Franklin Richards",
+     "at": 3
+    }
+   ],
+   "tag": {
+    "text": "DOOM'S OLDEST ENEMIES",
+    "at": 2
+   },
+   "from": 10612,
+   "lines": [
+    {
+     "t": "That ship belongs to Marvel's First Family.",
+     "start": 0.35,
+     "end": 2.703,
+     "from": 10,
+     "to": 81
+    },
+    {
+     "t": "Reed Richards, Sue Storm, Johnny Storm, and Ben Grimm come from Earth-828, where they just survived Galactus, thanks to Sue, and baby Franklin.",
+     "start": 2.963,
+     "end": 12.606,
+     "from": 89,
+     "to": 378
+    },
+    {
+     "t": "In the comics, no one hates Doom more than this family, and in the trailer, Sue herself speaks about Doom's past with them.",
+     "start": 12.866,
+     "end": 20.195,
+     "from": 386,
+     "to": 606
+    },
+    {
+     "t": "If Doom is after Franklin, the Fantastic Four will cross universes to stop him.",
+     "start": 20.455,
+     "end": 25.455,
+     "from": 614,
+     "to": 764
+    }
+   ],
+   "durationInFrames": 781
+  },
+  {
+   "id": "wakanda",
+   "type": "dossier",
+   "chapter": "WHERE EVERY HERO IS NOW",
+   "name": "WAKANDA & TALOKAN",
+   "alias": "THE KINGDOMS",
+   "actor": "Letitia Wright \u00b7 Winston Duke \u00b7 Tenoch Huerta Mej\u00eda",
+   "emblem": "claw",
+   "media": "wakanda",
+   "accent": "#9b5de5",
+   "fields": [
+    {
+     "label": "ROSTER",
+     "value": "Shuri \u00b7 M'Baku \u00b7 Namor",
+     "at": 1
+    },
+    {
+     "label": "LAST SEEN",
+     "value": "Black Panther: Wakanda Forever (2022)",
+     "at": 1
+    },
+    {
+     "label": "TEASER 4",
+     "value": "M'Baku meets Ben Grimm",
+     "at": 2
+    },
+    {
+     "label": "NEW LOOK",
+     "value": "Namor's comic-accurate suit",
+     "at": 3
+    }
+   ],
+   "tag": {
+    "text": "WAKANDA \u00d7 FANTASTIC FOUR",
+    "at": 2
+   },
+   "from": 11393,
+   "lines": [
+    {
+     "t": "Wakanda is back too.",
+     "start": 0.35,
+     "end": 1.647,
+     "from": 10,
+     "to": 49
+    },
+    {
+     "t": "After Black Panther: Wakanda Forever, Shuri carries the mantle of the Black Panther, M'Baku stands beside her, and Namor rules the undersea kingdom of Talokan.",
+     "start": 1.907,
+     "end": 12.702,
+     "from": 57,
+     "to": 381
+    },
+    {
+     "t": "The fourth teaser brought Wakanda and the Fantastic Four together, with M'Baku introducing himself to Ben Grimm, who answers with his Yancy Street address.",
+     "start": 12.962,
+     "end": 22.556,
+     "from": 389,
+     "to": 677
+    },
+    {
+     "t": "Namor appears too, finally wearing a comic-accurate suit.",
+     "start": 22.816,
+     "end": 26.204,
+     "from": 684,
+     "to": 786
+    }
+   ],
+   "durationInFrames": 803
+  },
+  {
+   "id": "wildcards",
+   "type": "trio",
+   "chapter": "WHERE EVERY HERO IS NOW",
+   "heading": "THE WILD CARDS",
+   "cards": [
+    {
+     "title": "LOKI",
+     "actor": "Tom Hiddleston",
+     "emblem": "tree",
+     "note": "Keeper of every timeline",
+     "accent": "#c9a227",
+     "at": 0,
+     "media": "loki"
+    },
+    {
+     "title": "SHANG-CHI",
+     "actor": "Simu Liu",
+     "emblem": "rings",
+     "note": "Ten Rings vs. Gambit",
+     "accent": "#ff4d6d",
+     "at": 2,
+     "media": "shang-chi"
+    },
+    {
+     "title": "ANT-MAN",
+     "actor": "Paul Rudd",
+     "emblem": "ant",
+     "note": "Last seen facing Kang",
+     "accent": "#f94144",
+     "at": 3,
+     "media": "ant-man"
+    }
+   ],
+   "from": 12196,
+   "lines": [
+    {
+     "t": "Then there are the wild cards.",
+     "start": 0.35,
+     "end": 1.917,
+     "from": 10,
+     "to": 58
+    },
+    {
+     "t": "Loki now holds the timelines together, which may make him the only being who truly understands what Doom is doing to the multiverse.",
+     "start": 2.177,
+     "end": 10.161,
+     "from": 65,
+     "to": 305
+    },
+    {
+     "t": "Shang-Chi returns with the Ten Rings, and his teaser shows him trading blows with Channing Tatum's Gambit.",
+     "start": 10.421,
+     "end": 16.591,
+     "from": 313,
+     "to": 498
+    },
+    {
+     "t": "And Scott Lang, Ant-Man, is back for his first Avengers film since Quantumania, the movie where he went up against Kang.",
+     "start": 16.851,
+     "end": 24.266,
+     "from": 506,
+     "to": 728
+    }
+   ],
+   "durationInFrames": 745
+  },
+  {
+   "id": "ch4",
+   "type": "chapter",
+   "num": "04",
+   "title": "THE X-MEN ARE HERE",
+   "duration": 2.8,
+   "sfx": "impact",
+   "from": 12941,
+   "lines": [],
+   "durationInFrames": 84
+  },
+  {
+   "id": "xmen",
+   "type": "roster",
+   "chapter": "THE X-MEN ARE HERE",
+   "heading": "THE ORIGINAL X-MEN",
+   "emblem": "x",
+   "accent": "#ffd23f",
+   "members": [
+    {
+     "name": "PROFESSOR X",
+     "actor": "Patrick Stewart",
+     "at": 1
+    },
+    {
+     "name": "MAGNETO",
+     "actor": "Ian McKellen",
+     "at": 1
+    },
+    {
+     "name": "CYCLOPS",
+     "actor": "James Marsden",
+     "at": 1
+    },
+    {
+     "name": "MYSTIQUE",
+     "actor": "Rebecca Romijn",
+     "at": 1
+    },
+    {
+     "name": "NIGHTCRAWLER",
+     "actor": "Alan Cumming",
+     "at": 1
+    },
+    {
+     "name": "BEAST",
+     "actor": "Kelsey Grammer",
+     "at": 3
+    },
+    {
+     "name": "GAMBIT",
+     "actor": "Channing Tatum",
+     "at": 4
+    }
+   ],
+   "from": 13025,
+   "lines": [
+    {
+     "t": "Now, the part that has fans losing their minds: the original X-Men are back.",
+     "start": 0.35,
+     "end": 4.919,
+     "from": 10,
+     "to": 148
+    },
+    {
+     "t": "Patrick Stewart as Professor X. Ian McKellen as Magneto. James Marsden as Cyclops. Rebecca Romijn as Mystique. And Alan Cumming as Nightcrawler.",
+     "start": 5.179,
+     "end": 15.775,
+     "from": 155,
+     "to": 473
+    },
+    {
+     "t": "These are the heroes of Fox's X-Men films, the franchise that kicked off the modern superhero era back in 2000.",
+     "start": 16.035,
+     "end": 24.174,
+     "from": 481,
+     "to": 725
+    },
+    {
+     "t": "Kelsey Grammer's Beast has already crossed over once, in the post-credits scene of The Marvels.",
+     "start": 24.434,
+     "end": 29.856,
+     "from": 733,
+     "to": 896
+    },
+    {
+     "t": "And Channing Tatum finally got to play Gambit in Deadpool and Wolverine, a role he had spent years trying to make happen.",
+     "start": 30.116,
+     "end": 37.126,
+     "from": 903,
+     "to": 1114
+    }
+   ],
+   "durationInFrames": 1131
+  },
+  {
+   "id": "sentinels",
+   "type": "beats",
+   "chapter": "THE X-MEN ARE HERE",
+   "heading": "WHAT THE X-MEN FOOTAGE SHOWS",
+   "accent": "#ffd23f",
+   "media": "sentinels",
+   "beats": [
+    {
+     "text": "A blinding flash outside the X-Mansion",
+     "at": 0
+    },
+    {
+     "text": "The mansion in ruins",
+     "at": 1
+    },
+    {
+     "text": "Cyclops in his classic comic costume",
+     "at": 1
+    },
+    {
+     "text": "A Sentinel towering in the background",
+     "at": 1
+    },
+    {
+     "text": "Doom raises an army of Sentinels",
+     "at": 2
+    }
+   ],
+   "emblem": "x",
+   "from": 14156,
+   "lines": [
+    {
+     "t": "In the trailer footage, Professor X sees a blinding flash outside the X-Mansion.",
+     "start": 0.35,
+     "end": 5.194,
+     "from": 10,
+     "to": 156
+    },
+    {
+     "t": "Then we see the mansion in ruins, and Cyclops in his classic comic book costume, firing an optic blast in rage, while the legs of a giant Sentinel loom behind him.",
+     "start": 5.454,
+     "end": 16.423,
+     "from": 164,
+     "to": 493
+    },
+    {
+     "t": "And here's the chilling part: Doom raises an army of Sentinels out of the ground.",
+     "start": 16.683,
+     "end": 21.272,
+     "from": 500,
+     "to": 638
+    },
+    {
+     "t": "If you've seen X-Men: Days of Future Past, you know exactly how dangerous those mutant-hunting machines are.",
+     "start": 21.532,
+     "end": 28.246,
+     "from": 646,
+     "to": 847
+    }
+   ],
+   "durationInFrames": 864
+  },
+  {
+   "id": "ch5",
+   "type": "chapter",
+   "num": "05",
+   "title": "EVERY TRAILER CLUE",
+   "duration": 2.8,
+   "sfx": "impact",
+   "from": 15020,
+   "lines": [],
+   "durationInFrames": 84
+  },
+  {
+   "id": "teasers",
+   "type": "teasers",
+   "chapter": "EVERY TRAILER CLUE",
+   "heading": "FOUR TEASERS \u00b7 FOUR WEEKS",
+   "cards": [
+    {
+     "num": "01",
+     "date": "DEC 23, 2025",
+     "title": "STEVE ROGERS",
+     "at": 1,
+     "media": "teaser-1",
+     "accent": "#e63946"
+    },
+    {
+     "num": "02",
+     "date": "DEC 30, 2025",
+     "title": "THOR",
+     "at": 2,
+     "media": "teaser-2",
+     "accent": "#5ab8ff"
+    },
+    {
+     "num": "03",
+     "date": "JAN 6, 2026",
+     "title": "THE X-MEN",
+     "at": 3,
+     "media": "teaser-3",
+     "accent": "#ffd23f"
+    },
+    {
+     "num": "04",
+     "date": "JAN 13, 2026",
+     "title": "WAKANDA \u00d7 FF",
+     "at": 4,
+     "media": "teaser-4",
+     "accent": "#9b5de5"
+    }
+   ],
+   "from": 15104,
+   "lines": [
+    {
+     "t": "Marvel rolled out four teasers in theaters, one a week, starting December 23rd, 2025.",
+     "start": 0.35,
+     "end": 6.846,
+     "from": 10,
+     "to": 205
+    },
+    {
+     "t": "Steve Rogers came first.",
+     "start": 7.106,
+     "end": 8.685,
+     "from": 213,
+     "to": 261
+    },
+    {
+     "t": "Then Thor's prayer.",
+     "start": 8.945,
+     "end": 10.058,
+     "from": 268,
+     "to": 302
+    },
+    {
+     "t": "Then the X-Men, including that fight between Gambit and Shang-Chi.",
+     "start": 10.318,
+     "end": 14.173,
+     "from": 310,
+     "to": 425
+    },
+    {
+     "t": "And finally, Wakanda meeting the Fantastic Four.",
+     "start": 14.433,
+     "end": 17.26,
+     "from": 433,
+     "to": 518
+    }
+   ],
+   "durationInFrames": 535
+  },
+  {
+   "id": "full-trailer",
+   "type": "beats",
+   "chapter": "EVERY TRAILER CLUE",
+   "heading": "THE FULL TRAILER",
+   "accent": "#39e58c",
+   "media": "trailer",
+   "beats": [
+    {
+     "text": "Doom stops Thor's strike, blasts him with green energy",
+     "at": 1
+    },
+    {
+     "text": "Reed Richards confronts Doom in the rubble",
+     "at": 2
+    },
+    {
+     "text": "Thor: Doom will be \"begging for hell\"",
+     "at": 3
+    },
+    {
+     "text": "Doom: an \"unthinkable decision\" is coming",
+     "at": 4
+    }
+   ],
+   "emblem": "mask",
+   "from": 15639,
+   "lines": [
+    {
+     "t": "The full trailer finally put Doom front and center.",
+     "start": 0.35,
+     "end": 3.167,
+     "from": 10,
+     "to": 95
+    },
+    {
+     "t": "He blocks Thor's attack, and blasts him back with green energy.",
+     "start": 3.427,
+     "end": 7.003,
+     "from": 103,
+     "to": 210
+    },
+    {
+     "t": "Reed Richards confronts him in the rubble.",
+     "start": 7.263,
+     "end": 9.474,
+     "from": 218,
+     "to": 284
+    },
+    {
+     "t": "Thor promises that Doom will be begging for hell long before he grants it.",
+     "start": 9.734,
+     "end": 13.677,
+     "from": 292,
+     "to": 410
+    },
+    {
+     "t": "And Doom warns that something is coming, something that will force our heroes to make an unthinkable decision.",
+     "start": 13.937,
+     "end": 20.345,
+     "from": 418,
+     "to": 610
+    },
+    {
+     "t": "That one line might be the key to the entire movie.",
+     "start": 20.605,
+     "end": 23.447,
+     "from": 618,
+     "to": 703
+    }
+   ],
+   "durationInFrames": 720
+  },
+  {
+   "id": "ch6",
+   "type": "chapter",
+   "num": "06",
+   "title": "RUMORS & LEAKS",
+   "duration": 2.8,
+   "sfx": "impact",
+   "from": 16359,
+   "lines": [],
+   "durationInFrames": 84
+  },
+  {
+   "id": "rumor-disclaimer",
+   "type": "disclaimer",
+   "chapter": "RUMORS & LEAKS",
+   "text": "UNCONFIRMED",
+   "sub": "Rumors, leaks and theories. Treat with caution.",
+   "from": 16443,
+   "lines": [
+    {
+     "t": "Now, the rumors. Everything from here on is unconfirmed, so take it with a grain of salt.",
+     "start": 0.35,
+     "end": 5.996,
+     "from": 10,
+     "to": 180
+    }
+   ],
+   "durationInFrames": 197
+  },
+  {
+   "id": "rumor-runtime",
+   "type": "rumor",
+   "chapter": "RUMORS & LEAKS",
+   "index": 1,
+   "total": 6,
+   "status": "CONFIRMED-ISH",
+   "statusColor": "#39e58c",
+   "meter": 0.85,
+   "title": "RUNTIME",
+   "big": "~2.5 HRS",
+   "body": "Anthony Russo: \"a two-and-a-half-hour movie, or so.\" Some scoopers claim the cut runs closer to three hours.",
+   "from": 16640,
+   "lines": [
+    {
+     "t": "Let's start with something solid. Anthony Russo has described Doomsday as a two-and-a-half-hour movie, or so.",
+     "start": 0.35,
+     "end": 7.151,
+     "from": 10,
+     "to": 215
+    },
+    {
+     "t": "Some scoopers claim the current cut runs closer to three hours.",
+     "start": 7.411,
+     "end": 11.17,
+     "from": 222,
+     "to": 335
+    }
+   ],
+   "durationInFrames": 352
+  },
+  {
+   "id": "rumor-motive",
+   "type": "rumor",
+   "chapter": "RUMORS & LEAKS",
+   "index": 2,
+   "total": 6,
+   "status": "ALLEGED LEAK",
+   "statusColor": "#ff9f1c",
+   "meter": 0.45,
+   "title": "DOOM'S MOTIVE",
+   "big": "ACCELERATE",
+   "body": "Doom isn't stopping the incursions. He's speeding them up \u2014 to rebuild the multiverse and bring back a family he lost.",
+   "from": 16992,
+   "lines": [
+    {
+     "t": "Alleged plot leaks claim Doom isn't trying to stop the incursions at all.",
+     "start": 0.35,
+     "end": 4.638,
+     "from": 10,
+     "to": 139
+    },
+    {
+     "t": "He's accelerating them, so he can rebuild the multiverse, and bring back a family he lost.",
+     "start": 4.898,
+     "end": 10.317,
+     "from": 147,
+     "to": 310
+    }
+   ],
+   "durationInFrames": 327
+  },
+  {
+   "id": "rumor-battleworld",
+   "type": "rumor",
+   "chapter": "RUMORS & LEAKS",
+   "index": 3,
+   "total": 6,
+   "status": "FAN THEORY",
+   "statusColor": "#b388ff",
+   "meter": 0.6,
+   "title": "BATTLEWORLD",
+   "big": "DOOM WINS?",
+   "body": "Like Infinity War, Doomsday could end with the villain victorious \u2014 and the multiverse fused into Battleworld for Secret Wars.",
+   "from": 17319,
+   "lines": [
+    {
+     "t": "Many fans expect Doomsday to pull an Infinity War, and end with the villain winning.",
+     "start": 0.35,
+     "end": 5.228,
+     "from": 10,
+     "to": 157
+    },
+    {
+     "t": "The multiverse collapses, Battleworld rises, and the stage is set for Secret Wars.",
+     "start": 5.488,
+     "end": 10.919,
+     "from": 165,
+     "to": 328
+    }
+   ],
+   "durationInFrames": 345
+  },
+  {
+   "id": "rumor-cameos",
+   "type": "rumor",
+   "chapter": "RUMORS & LEAKS",
+   "index": 4,
+   "total": 6,
+   "status": "RUMOR",
+   "statusColor": "#ff5a5f",
+   "meter": 0.35,
+   "title": "SURPRISE CAMEOS",
+   "big": "WHO ELSE?",
+   "body": "Insiders point to Natalie Portman and Idris Elba. Jeremy Renner posted his old Hawkeye suit. A Scarlet Witch stunt double was reportedly spotted on set.",
+   "from": 17664,
+   "lines": [
+    {
+     "t": "Then there are the cameos. Insiders have pointed to surprise appearances from Natalie Portman and Idris Elba in the final battle.",
+     "start": 0.35,
+     "end": 8.333,
+     "from": 10,
+     "to": 250
+    },
+    {
+     "t": "Jeremy Renner posted his old Hawkeye costume on Instagram, and a Scarlet Witch stunt double was reportedly spotted on set.",
+     "start": 8.593,
+     "end": 16.332,
+     "from": 258,
+     "to": 490
+    }
+   ],
+   "durationInFrames": 507
+  },
+  {
+   "id": "rumor-spidey",
+   "type": "rumor",
+   "chapter": "RUMORS & LEAKS",
+   "index": 5,
+   "total": 6,
+   "status": "OPEN QUESTION",
+   "statusColor": "#4ea8ff",
+   "meter": 0.3,
+   "title": "SPIDER-MAN",
+   "big": "IN SPACE?",
+   "body": "Brand New Day's credits scene tracks Peter somewhere in space: \"Spider-Man will return.\" Tom Holland isn't in the announced cast.",
+   "from": 18171,
+   "lines": [
+    {
+     "t": "Spider-Man: Brand New Day ended with Peter's tracker locating him somewhere out in space, followed by the words, Spider-Man will return.",
+     "start": 0.35,
+     "end": 9.038,
+     "from": 10,
+     "to": 271
+    },
+    {
+     "t": "Tom Holland isn't in the announced cast, so many fans think that points to Secret Wars instead. But with this movie, never say never.",
+     "start": 9.298,
+     "end": 17.947,
+     "from": 279,
+     "to": 538
+    }
+   ],
+   "durationInFrames": 555
+  },
+  {
+   "id": "rumor-tony",
+   "type": "rumor",
+   "chapter": "RUMORS & LEAKS",
+   "index": 6,
+   "total": 6,
+   "status": "BIGGEST THEORY",
+   "statusColor": "#b388ff",
+   "meter": 0.4,
+   "title": "WHY RDJ?",
+   "big": "TONY STARK?",
+   "body": "Some reports claim Tony Stark plays a key role in Doom's story. Marvel has confirmed nothing.",
+   "from": 18726,
+   "lines": [
+    {
+     "t": "And the biggest question of all: why cast Robert Downey Jr. as Doom in the first place?",
+     "start": 0.35,
+     "end": 5.845,
+     "from": 10,
+     "to": 175
+    },
+    {
+     "t": "Some reports claim Tony Stark himself plays a key role in Doom's story. Marvel has confirmed nothing.",
+     "start": 6.105,
+     "end": 12.515,
+     "from": 183,
+     "to": 375
+    },
+    {
+     "t": "Which of these do you believe? Tell me in the comments.",
+     "start": 12.775,
+     "end": 15.535,
+     "from": 383,
+     "to": 466
+    }
+   ],
+   "durationInFrames": 483
+  },
+  {
+   "id": "ch7",
+   "type": "chapter",
+   "num": "07",
+   "title": "YOUR WATCH LIST",
+   "duration": 2.8,
+   "sfx": "impact",
+   "from": 19209,
+   "lines": [],
+   "durationInFrames": 84
+  },
+  {
+   "id": "watchlist",
+   "type": "watchlist",
+   "chapter": "YOUR WATCH LIST",
+   "tiers": [
+    {
+     "name": "ESSENTIAL",
+     "color": "#39e58c",
+     "at": 1,
+     "items": [
+      "Avengers: Endgame",
+      "Loki \u00b7 Season 2",
+      "Thunderbolts*",
+      "Captain America: Brave New World",
+      "The Fantastic Four: First Steps",
+      "X2: X-Men United"
+     ]
+    },
+    {
+     "name": "RECOMMENDED",
+     "color": "#4ea8ff",
+     "at": 2,
+     "items": [
+      "Black Panther: Wakanda Forever",
+      "Shang-Chi",
+      "Thor: Love and Thunder",
+      "Deadpool & Wolverine",
+      "Multiverse of Madness",
+      "Spider-Man: No Way Home"
+     ]
+    },
+    {
+     "name": "DEEP CUTS",
+     "color": "#b388ff",
+     "at": 3,
+     "items": [
+      "X-Men (2000)",
+      "X-Men: Days of Future Past",
+      "The Marvels (post-credits)",
+      "Spider-Man: Brand New Day"
+     ]
+    }
+   ],
+   "from": 19293,
+   "lines": [
+    {
+     "t": "If you want to walk into Doomsday fully prepared, Marvel's own Disney Plus guide lists fourteen films, plus the Loki series. That's nearly two full days of viewing. So here's the smart version.",
+     "start": 0.35,
+     "end": 12.061,
+     "from": 10,
+     "to": 362
+    },
+    {
+     "t": "The essentials: Avengers: Endgame, for Steve's ending. Loki season two, for the multiverse. Thunderbolts* and Captain America: Brave New World, for the two Avengers teams. The Fantastic Four: First Steps, for Doom's target. And X2, the best of the original X-Men films.",
+     "start": 12.321,
+     "end": 30.6,
+     "from": 370,
+     "to": 918
+    },
+    {
+     "t": "If you have more time: Wakanda Forever, Shang-Chi, Thor: Love and Thunder, Deadpool and Wolverine, Multiverse of Madness, and No Way Home.",
+     "start": 30.86,
+     "end": 39.816,
+     "from": 926,
+     "to": 1194
+    },
+    {
+     "t": "And for the deep-cut fans: the original X-Men, Days of Future Past for the Sentinels, the post-credits scene of The Marvels, and Spider-Man: Brand New Day.",
+     "start": 40.076,
+     "end": 49.774,
+     "from": 1202,
+     "to": 1493
+    }
+   ],
+   "durationInFrames": 1510
+  },
+  {
+   "id": "outro",
+   "type": "outro",
+   "dates": [
+    {
+     "title": "AVENGERS: DOOMSDAY",
+     "date": "DECEMBER 18, 2026",
+     "at": 0
+    },
+    {
+     "title": "AVENGERS: SECRET WARS",
+     "date": "DECEMBER 17, 2027",
+     "at": 0
+    }
+   ],
+   "subscribeAt": 2,
+   "questionAt": 3,
+   "question": "WHO DO YOU THINK DIES IN DOOMSDAY?",
+   "tail": 3.0,
+   "from": 20803,
+   "lines": [
+    {
+     "t": "Avengers: Doomsday hits theaters December 18th, and Avengers: Secret Wars follows on December 17th, 2027.",
+     "start": 0.35,
+     "end": 8.999,
+     "from": 10,
+     "to": 270
+    },
+    {
+     "t": "This is the beginning of the end of the Multiverse Saga.",
+     "start": 9.259,
+     "end": 12.429,
+     "from": 278,
+     "to": 373
+    },
+    {
+     "t": "If this breakdown helped, subscribe and turn on notifications, because we'll be covering every new trailer, every leak, and a full spoiler breakdown on opening weekend.",
+     "start": 12.689,
+     "end": 22.991,
+     "from": 381,
+     "to": 690
+    },
+    {
+     "t": "Now tell me: who do you think dies in Doomsday? I'll see you on the other side.",
+     "start": 23.251,
+     "end": 27.937,
+     "from": 698,
+     "to": 838
+    }
+   ],
+   "durationInFrames": 945
+  }
+ ]
+}
